@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_HugoC_game
+module tt_um_hugoC_game
 (
     input  [7:0] ui_in,    // Dedicated inputs
     output [7:0] uo_out,   // Dedicated outputs
